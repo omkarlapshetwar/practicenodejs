@@ -1,0 +1,14 @@
+{
+  "name": "omkarpractice",
+  "version": "1.0.0",
+  "description": "justpracting",
+  "main": "fsmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omkarlapshetwar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
